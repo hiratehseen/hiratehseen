@@ -2,7 +2,7 @@
 
 # Hi there 👋, I'm Hira Tehseen
 ## I am Computer Vision Engineer
-![I am Computer Vision Engineer](https://img.freepik.com/free-vector/glowing-blue-cuircuit-lines-diagram_1017-33018.jpg?w=1480&t=st=1682616234~exp=1682616834~hmac=0c8c913812b45d3cde89763d726733cb8ea34356757073e15a118f1538807de4)
+![I am Computer Vision Engineer](2.png)
 
 As a passionate machine learning engineer, I specialize in Python and have extensive experience working with popular deep learning frameworks such as TensorFlow and PyTorch. With a strong background in computer vision and natural language processing, I strive to develop cutting-edge algorithms that can accurately analyze and interpret complex data.
 
