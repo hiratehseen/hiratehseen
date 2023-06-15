@@ -1,5 +1,3 @@
-![Profile views](https://gpvc.arturio.dev/HiraTehSeen)  
-
 # Hi there 👋, I'm Hira Tehseen
 ## I am Computer Vision Engineer
 ![I am Computer Vision Engineer](2.png)
