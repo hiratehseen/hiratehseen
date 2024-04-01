@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Hira Tehseen
+# Hi there 👋, I'm Heeri
 ## I am Computer Vision Engineer
 ![I am Computer Vision Engineer](2.png)
 
