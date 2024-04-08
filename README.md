@@ -21,3 +21,5 @@ Skills:  PYTHON / TENSORFLOW / PYTORCH / COMPUTER VISION / NLP
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=heeri404&show_icons=true&count_private=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=heeri)  
+
+![GitHub metrics](https://metrics.lecoq.io/heeri404)
