@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Heeri
+# Hi there 👋, I'm Hira
 ## I am Computer Vision Engineer
 
 As a passionate machine learning engineer, I specialize in Python and have extensive experience working with popular deep learning frameworks such as TensorFlow and PyTorch. With a strong background in computer vision and natural language processing, I strive to develop cutting-edge algorithms that can accurately analyze and interpret complex data.
